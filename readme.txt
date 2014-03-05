@@ -23,9 +23,9 @@ Load one Theme for a specific user. You must set the theme from User Profile the
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
 = Usage =
-1.Select the theme you prefer from the `User Profile` page, then press Save button;
-2.Logout;
-3.Login.
+1. Select the theme you prefer from the `User Profile` page, then press Save button;
+2. Logout;
+3. Login.
 
 
 == Screenshots ==
