@@ -14,6 +14,10 @@ Load one Theme for a specific user. You must set the theme from User Profile the
 
 Load one Theme for a specific user. You must set the theme from User Profile then logout and login again in order to take effect.
 
+= Usage =
+1. Select the theme you prefer from the `User Profile` page, then press Save button;
+2. Logout;
+3. Login.
 
 == Installation ==
 
@@ -21,11 +25,6 @@ Load one Theme for a specific user. You must set the theme from User Profile the
 1. Upload `theme-per-user.zip` to the `/wp-content/plugins/` directory;
 2. Extract the `theme-per-user.zip` archive into the `/wp-content/plugins/` directory;
 3. Activate the plugin through the 'Plugins' menu in WordPress.
-
-= Usage =
-1. Select the theme you prefer from the `User Profile` page, then press Save button;
-2. Logout;
-3. Login.
 
 
 == Screenshots ==
