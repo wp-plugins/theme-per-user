@@ -1,5 +1,5 @@
 === Theme per user ===
-Contributors: PressLabs, olarmarius
+Contributors: PressLabs, olarmarius, razvan.mocanu
 Donate link: http://www.presslabs.com/
 Tags: themes, theme, user, theme per user, redirect, presslabs 
 Requires at least: 3.8.1
@@ -14,10 +14,6 @@ Load one Theme for a specific user. You must set the theme from User Profile the
 
 Load one Theme for a specific user. You must set the theme from User Profile then logout and login again in order to take effect.
 
-= Usage =
-1. Select the theme you prefer from the `User Profile` page, then press Save button;
-2. Logout;
-3. Login.
 
 == Installation ==
 
@@ -26,10 +22,18 @@ Load one Theme for a specific user. You must set the theme from User Profile the
 2. Extract the `theme-per-user.zip` archive into the `/wp-content/plugins/` directory;
 3. Activate the plugin through the 'Plugins' menu in WordPress.
 
+= Usage =
+Use your plugin from the `User Profile` page;
+
+== Frequently Asked Questions ==
+
+= Does it work with child themes? =
+
+No, so far this plugin does not support child themes.
 
 == Screenshots ==
 
-1. Theme per user option
+none
 
 == Changelog ==
 
